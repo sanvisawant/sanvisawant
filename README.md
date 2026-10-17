@@ -121,11 +121,12 @@ An AI agent project built while exploring intelligent workflows, agent orchestra
 
 </div>
 
+
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-![Snake game](https://github.com/sanvisawant/sanvisawant/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/sanvisawant/sanvisawant/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
 
 </div>
 
