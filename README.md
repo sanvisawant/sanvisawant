@@ -27,28 +27,44 @@
 
 ---
 
-<!-- ================= ABOUT ME ================= -->
 
-<h2 align="center">💜 About Me</h2>
+## 💜 About Me
 
-```yaml
-name: Sanvi Sawant
-education: Computer Engineering
-college: Xavier Institute of Engineering
+<div align="center">
 
-interests:
-  - Artificial Intelligence
-  - Generative AI and AI Agents
-  - Full-Stack Development
-  - Open Source
+### Hi, I'm Sanvi Sawant! 👋
+**Computer Engineering Student · Aspiring AI Product Builder**
 
-currently:
-  - Building AI-powered applications
-  - Learning through hands-on projects
-  - Exploring intelligent and accessible technology
+*Building with Code. Learning with Curiosity.*
 
-goal: AI Product Builder
-philosophy: "Building with Code. Learning with Curiosity."
+</div>
+
+---
+
+🎓 **Education**  
+Computer Engineering · Xavier Institute of Engineering
+
+🧠 **Interests**
+- 💜 Artificial Intelligence & Generative AI
+- 🤖 AI Agents, LLMs & Intelligent Applications
+- 🌐 Full-Stack Development
+- 🌱 Open Source & Collaborative Building
+
+🛠️ **Currently**
+- Building AI-powered applications
+- Learning through hands-on projects and hackathons
+- Exploring accessible and human-centered technology
+
+🎯 **My Goal**  
+To build useful AI products that solve real-world problems.
+
+---
+
+<div align="center">
+
+**✨ Learn · Build · Improve ✨**
+
+</div>
 ```
 
 ---
