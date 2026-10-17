@@ -23,62 +23,51 @@
 
 
 
+
+
+
 <!-- ================= ABOUT ME ================= -->
 
-<h2 align="center">About Me</h2>
+<h2 align="center"> About Me</h2>
 
-<table width="100%">
+<table align="center" width="90%">
 <tr>
-<td colspan="2" align="center">
+<td align="center" valign="top">
 
-<h3>Education</h3>
+<h3>🎓 Education</h3>
 
-Computer Engineering  
-Xavier Institute of Engineering
+Computer Engineering · Xavier Institute of Engineering
 
 </td>
 </tr>
+</table>
 
+<table align="center" width="90%">
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top">
 
-<h3>Interests</h3>
+<h3 align="center">🧠 Interests</h3>
 
-Artificial Intelligence & Generative AI
-
-<br/><br/>
-
-AI Agents & LLMs
-
-<br/><br/>
-
-Full-Stack Development
-
-<br/><br/>
-
-Open Source
+- Artificial Intelligence & Generative AI
+- AI Agents & LLMs
+- Full-Stack Development
+- Open Source
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%" align="center" valign="top">
+<h3 align="center">🛠️ Currently</h3>
 
-<h3>Currently</h3>
-
-Exploring AI and intelligent applications
-
-<br/><br/>
-
-Actively participating in tech events
-
-<br/><br/>
-
-Open to collaboration opportunities
+- Exploring AI and intelligent applications
+- Actively participating in tech events
+- Open to collaboration opportunities
 
 </td>
 </tr>
 </table>
 
 ---
+
 
 <!-- ================= TECH STACK ================= -->
 
@@ -87,20 +76,18 @@ Open to collaboration opportunities
 <h3 align="center">Programming Languages</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,html,css&theme=dark" alt="Programming languages"/>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,c,html,css&theme=dark" alt="Programming languages"/>
 </div>
 
 <h3 align="center">Frameworks and Tools</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,flutter,fastapi,spring,supabase,firebase,git,github,vscode,figma&theme=dark" alt="Frameworks and development tools"/>
+  <img src="https://skillicons.dev/icons?i=react,flutter,fastapi,supabase,firebase,git,github,vscode,figma&theme=dark" alt="Frameworks and development tools"/>
 </div>
 
 <h3 align="center">AI and Machine Learning</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" alt="Machine learning tools"/>
-  <br/><br/>
   <img src="https://img.shields.io/badge/Generative_AI-7C3AED?style=for-the-badge" alt="Generative AI"/>
   <img src="https://img.shields.io/badge/AI_Agents-8B5CF6?style=for-the-badge" alt="AI Agents"/>
   <img src="https://img.shields.io/badge/RAG-A78BFA?style=for-the-badge&labelColor=4C1D95" alt="RAG"/>
