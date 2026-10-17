@@ -21,50 +21,61 @@
 
 ---
 
+
 <!-- ================= ABOUT ME ================= -->
 
 <h2 align="center">💜 About Me</h2>
 
 <div align="center">
 
-**Computer Engineering Student · Xavier Institute of Engineering**
+Computer Engineering Student · Xavier Institute of Engineering
 
 </div>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" align="center">
 
-<h3 align="center">🎓 Education</h3>
+<h3>🎓 Education</h3>
 
-<div align="center">
-
-**Computer Engineering**
-
-Xavier Institute of Engineering
-
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">🧠 Interests</h3>
-
-- 💜 Artificial Intelligence & Generative AI
-- 🤖 AI Agents & LLMs
-- 🌐 Full-Stack Development
-- 🌱 Open Source
+Computer Engineering @ Xavier Institute of Engineering
 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" align="center" valign="top">
 
-<h3 align="center">🛠️ Currently</h3>
+<h3>🧠 Interests</h3>
 
-- Working on AI-powered applications
-- Building through hands-on projects
-- Exploring accessible technology
+💜 Artificial Intelligence & Generative AI
+
+<br/>
+
+🤖 AI Agents & LLMs
+
+<br/>
+
+🌐 Full-Stack Development
+
+<br/>
+
+🌱 Open Source
+
+</td>
+<td width="50%" align="center" valign="top">
+
+
+<h3>🛠️ Currently</h3>
+
+💜 Exploring AI and intelligent applications
+
+<br/>
+
+🏆 Actively participating in tech events
+
+<br/>
+
+🤝 Open to collaboration opportunities
 
 </td>
 </tr>
