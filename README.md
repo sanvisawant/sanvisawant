@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,35:7C3AED,70:A78BFA,100:E9D5FF&height=220&section=header&text=Hi%2C%20I'm%20Sanvi%20Sawant!&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Software%20Development&descAlignY=58&descSize=14" width="100%" alt="Purple animated header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,35:7C3AED,70:A78BFA,100:E9D5FF&height=220&section=header&text=Hi%2C%20I'm%20Sanvi%20Sawant!&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Artificial%20Intelligence%20%7C%20Software%20Development&descAlignY=58&descSize=14" width="100%" alt="Purple animated header"/>
 
 <br/>
 
@@ -166,12 +166,9 @@ An AI agent project built while exploring agent workflows, orchestration, and th
 
 <h2 align="center">🏆 Achievements & Recognition</h2>
 
-- 🥇 **First Prize — Pragati 2.0 Built-It-On:** Saamya AI, Education Track.
-- 🥇 **First Prize — WDC Allyn Girls Code-a-thon:** SheHealth.
-- 💜 **Smart India Hackathon 2026:** Selected among the Top 45 teams in the college internal round.
-- 💻 **GirlScript Summer of Code 2026:** Open-source contributor.
-- ✨ **RepoForge — XIE CSI:** Recognition for UI design and accessibility focus.
-
+- **4× Hackathon Winner:** Developed practical solutions across diverse problem domains.
+- **Technical Community:** Active member of college technical societies, contributing to technical events and workshops while building teamwork and leadership skills.
+- **Collaborative Innovation:** Worked in team-based, time-bound environments to turn ideas into functional solutions.
 ---
 
 <!-- ================= GITHUB STATS ================= -->
@@ -198,13 +195,14 @@ An AI agent project built while exploring agent workflows, orchestration, and th
 
 ---
 
+
 <!-- ================= CONTRIBUTION SNAKE ================= -->
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<h2 align="center">📈 Contribution Activity</h2>
 
 <div align="center">
 
-<p><em>A little snake making its way through my GitHub contributions 💜</em></p>
+<p><em>A visual snapshot of my GitHub contributions</em></p>
 
 <img src="https://raw.githubusercontent.com/sanvisawant/sanvisawant/output/github-contribution-grid-snake.svg" alt="Purple GitHub contribution snake" width="100%"/>
 
@@ -212,17 +210,18 @@ An AI agent project built while exploring agent workflows, orchestration, and th
 
 ---
 
+
 <!-- ================= FOOTER ================= -->
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7C3AED,100:E9D5FF&height=120&section=footer" width="100%" alt="Purple footer"/>
 
-### 💜 Thanks for visiting my profile!
+### 💜 Let's Build Something Meaningful
 
 <br/>
 
-### Building with Code
-### Driven By Curiosity!!!
+**Building with Code**  
+**Driven By Curiosity!!!**
 
 </div>
