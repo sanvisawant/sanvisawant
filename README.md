@@ -3,69 +3,72 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,35:7C3AED,70:A78BFA,100:E9D5FF&height=220&section=header&text=Hi%2C%20I'm%20Sanvi%20Sawant!&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Software%20Development%20%7C%20Building%20with%20Code&descAlignY=58&descSize=14" width="100%" alt="Purple animated header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,35:7C3AED,70:A78BFA,100:E9D5FF&height=220&section=header&text=Hi%2C%20I'm%20Sanvi%20Sawant!&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Software%20Development&descAlignY=58&descSize=14" width="100%" alt="Purple animated header"/>
 
 <br/>
 
 <a href="https://github.com/sanvisawant">
   <img src="https://img.shields.io/badge/GitHub-Profile-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/sanvi-sawant-15a7ab384/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/sanvisawant?tab=repositories">
   <img src="https://img.shields.io/badge/Projects-Explore-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
 </a>
 
-<br/><br/>
-
-### ✨ Learning. Building. Growing.
-
-*Building with Code. Learning with Curiosity.*
-
 </div>
 
 ---
 
+<!-- ================= ABOUT ME ================= -->
 
-## 💜 About Me
+<h2 align="center">💜 About Me</h2>
 
 <div align="center">
 
-### Hi, I'm Sanvi Sawant! 👋
-**Computer Engineering Student · Aspiring AI Product Builder**
-
-*Building with Code. Learning with Curiosity.*
+**Computer Engineering Student · Xavier Institute of Engineering**
 
 </div>
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-🎓 **Education**  
-Computer Engineering · Xavier Institute of Engineering
+<h3 align="center">🎓 Education</h3>
 
-🧠 **Interests**
+<div align="center">
+
+**Computer Engineering**
+
+Xavier Institute of Engineering
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🧠 Interests</h3>
+
 - 💜 Artificial Intelligence & Generative AI
-- 🤖 AI Agents, LLMs & Intelligent Applications
+- 🤖 AI Agents & LLMs
 - 🌐 Full-Stack Development
-- 🌱 Open Source & Collaborative Building
+- 🌱 Open Source
 
-🛠️ **Currently**
-- Building AI-powered applications
-- Learning through hands-on projects and hackathons
-- Exploring accessible and human-centered technology
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
-🎯 **My Goal**  
-To build useful AI products that solve real-world problems.
+<h3 align="center">🛠️ Currently</h3>
 
----
+- Working on AI-powered applications
+- Building through hands-on projects
+- Exploring accessible technology
 
-<div align="center">
-
-**✨ Learn · Build · Improve ✨**
-
-</div>
-```
+</td>
+</tr>
+</table>
 
 ---
 
@@ -214,16 +217,17 @@ An AI agent project built while exploring agent workflows, orchestration, and th
 
 ---
 
+<!-- ================= FOOTER ================= -->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7C3AED,100:E9D5FF&height=120&section=footer" width="100%" alt="Purple footer"/>
 
 ### 💜 Thanks for visiting my profile!
 
-*Let's keep learning, building, and creating something meaningful.*
+<br/>
 
-<a href="https://github.com/sanvisawant">
-  <img src="https://img.shields.io/badge/Made_with_curiosity-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Made with curiosity"/>
-</a>
+### Building with Code
+### Driven By Curiosity!!!
 
 </div>
