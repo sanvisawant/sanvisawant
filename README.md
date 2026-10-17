@@ -1,27 +1,35 @@
 
-<!-- Animated Header -->
+<!-- ================= PURPLE PROFILE HEADER ================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=200&section=header&text=Hi%2C%20I'm%20Sanvi%20Sawant!&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Software%20Development%20%7C%20Building%20with%20Code&descAlignY=55&descSize=16" width="100%" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,35:7C3AED,70:A78BFA,100:E9D5FF&height=220&section=header&text=Hi%2C%20I'm%20Sanvi%20Sawant!&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Software%20Development%20%7C%20Building%20with%20Code&descAlignY=58&descSize=14" width="100%" alt="Purple animated header"/>
 
 <br/>
 
 <a href="https://github.com/sanvisawant">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Profile-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://www.linkedin.com/in/sanvi-sawant-15a7ab384/" >
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/sanvisawant?tab=repositories">
+  <img src="https://img.shields.io/badge/Projects-Explore-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
 </a>
 
 <br/><br/>
 
-**Building with Code. Learning with Curiosity.**
+### ✨ Learning. Building. Growing.
+
+*Building with Code. Learning with Curiosity.*
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+<!-- ================= ABOUT ME ================= -->
+
+<h2 align="center">💜 About Me</h2>
 
 ```yaml
 name: Sanvi Sawant
@@ -40,93 +48,151 @@ currently:
   - Exploring intelligent and accessible technology
 
 goal: AI Product Builder
-philosophy: "Learning. Building. Growing."
+philosophy: "Building with Code. Learning with Curiosity."
 ```
 
-## 🛠️ Tech Stack
+---
 
-### Programming Languages
+<!-- ================= TECH STACK ================= -->
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,html,css" alt="Programming Languages"/>
-</p>
+<h2 align="center">🛠️ Tech Stack</h2>
 
-### Frameworks and Development Tools
+<h3 align="center">Programming Languages</h3>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,flutter,fastapi,spring,supabase,firebase,git,github,vscode,figma" alt="Frameworks and Tools"/>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,html,css&theme=dark" alt="Programming languages"/>
+</div>
 
-### AI and Machine Learning
+<h3 align="center">Frameworks and Tools</h3>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="AI and Machine Learning"/>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,flutter,fastapi,spring,supabase,firebase,git,github,vscode,figma&theme=dark" alt="Frameworks and development tools"/>
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=flat-square" alt="Generative AI"/>
-  <img src="https://img.shields.io/badge/AI%20Agents-FF8C00?style=flat-square" alt="AI Agents"/>
-  <img src="https://img.shields.io/badge/RAG-008080?style=flat-square" alt="RAG"/>
-  <img src="https://img.shields.io/badge/MCP-555555?style=flat-square" alt="Model Context Protocol"/>
-  <img src="https://img.shields.io/badge/LLM%20Integration-412991?style=flat-square" alt="LLM Integration"/>
-</p>
+<h3 align="center">AI and Machine Learning</h3>
 
-## 🚀 Featured Projects
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" alt="Machine learning tools"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Generative_AI-7C3AED?style=for-the-badge" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/AI_Agents-8B5CF6?style=for-the-badge" alt="AI Agents"/>
+  <img src="https://img.shields.io/badge/RAG-A78BFA?style=for-the-badge&labelColor=4C1D95" alt="RAG"/>
+  <img src="https://img.shields.io/badge/MCP-6D28D9?style=for-the-badge" alt="MCP"/>
+  <img src="https://img.shields.io/badge/LLM_Integration-9333EA?style=for-the-badge" alt="LLM Integration"/>
+</div>
 
-### 🩺 MedAssist AI
+---
+
+<!-- ================= PROJECTS ================= -->
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🩺 MedAssist AI</h3>
 
 An AI-powered healthcare assistance platform for symptom analysis, disease prediction, risk assessment, and patient-friendly reports.
 
-**Tech Stack:** React, FastAPI, Python, Machine Learning
+**Tech Stack**
 
-### 🌱 Saamya AI
+`React` `FastAPI` `Python` `Machine Learning`
 
-An accessible AI-powered learning assistant designed to support learners through voice interaction and a Hindi-English interface.
+</td>
+<td width="50%" valign="top">
 
-**Tech Stack:** Flutter, FastAPI, Supabase, Generative AI
+<h3>🌱 Saamya AI</h3>
 
-### 💜 SheHealth
+An accessible AI-powered learning assistant with voice interaction and a Hindi-English interface to make learning more inclusive.
 
-An AI-powered women's health assistant featuring multilingual conversational support and voice interaction in English, Hindi, and Marathi.
+**Tech Stack**
 
-**Tech Stack:** React, TypeScript, Python, Generative AI
+`Flutter` `FastAPI` `Supabase` `LLMs`
 
-### 🤖 MeetIQ
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-An AI agent project built while exploring intelligent workflows, agent orchestration, and the Model Context Protocol.
+<h3>💜 SheHealth</h3>
 
-**Tech Stack:** Google ADK, AI Agents, MCP
+An AI-powered women's health assistant with multilingual conversational support and voice interaction in English, Hindi, and Marathi.
 
-> Project repository links can be added to the project titles as the repositories become public.
+**Tech Stack**
 
-## 🏆 Achievements and Recognition
+`React` `TypeScript` `Python` `Generative AI`
 
-- 🥇 **First Prize — Pragati 2.0 Built-It-On:** Saamya AI, Education Track.
-- 🥇 **First Prize — WDC Allyn Girls Code-a-thon:** SheHealth.
-- 🚀 **Smart India Hackathon 2026:** Selected among the Top 45 teams in the college internal round.
-- 💻 **GirlScript Summer of Code 2026:** Open-source contributor.
-- 🏅 **RepoForge — XIE CSI:** Recognition for UI design and accessibility focus.
+</td>
+<td width="50%" valign="top">
 
-## 📊 GitHub Statistics
+<h3>🤖 MeetIQ</h3>
+
+An AI agent project built while exploring agent workflows, orchestration, and the Model Context Protocol.
+
+**Tech Stack**
+
+`Google ADK` `AI Agents` `MCP`
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sanvisawant&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanvisawant&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-<br/><br/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=sanvisawant&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<a href="https://github.com/sanvisawant?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_My_Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+</a>
 
 </div>
 
+---
 
-## 🐍 Contribution Snake
+<!-- ================= ACHIEVEMENTS ================= -->
+
+<h2 align="center">🏆 Achievements & Recognition</h2>
+
+- 🥇 **First Prize — Pragati 2.0 Built-It-On:** Saamya AI, Education Track.
+- 🥇 **First Prize — WDC Allyn Girls Code-a-thon:** SheHealth.
+- 💜 **Smart India Hackathon 2026:** Selected among the Top 45 teams in the college internal round.
+- 💻 **GirlScript Summer of Code 2026:** Open-source contributor.
+- ✨ **RepoForge — XIE CSI:** Recognition for UI design and accessibility focus.
+
+---
+
+<!-- ================= GITHUB STATS ================= -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sanvisawant/sanvisawant/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
+<a href="https://github.com/sanvisawant">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sanvisawant&show_icons=true&hide_border=true&bg_color=1A102B&title_color=C4B5FD&text_color=E9D5FF&icon_color=A78BFA&rank_icon=github" alt="GitHub statistics"/>
+</a>
+
+<a href="https://github.com/sanvisawant">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanvisawant&layout=compact&hide_border=true&bg_color=1A102B&title_color=C4B5FD&text_color=E9D5FF" alt="Top programming languages"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/sanvisawant">
+  <img width="80%" src="https://streak-stats.demolab.com?user=sanvisawant&hide_border=true&background=1A102B&ring=A78BFA&fire=C4B5FD&currStreakLabel=C4B5FD&sideLabels=E9D5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=BFA7E8" alt="GitHub contribution streak"/>
+</a>
+
+</div>
+
+---
+
+<!-- ================= CONTRIBUTION SNAKE ================= -->
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+
+<p><em>A little snake making its way through my GitHub contributions 💜</em></p>
+
+<img src="https://raw.githubusercontent.com/sanvisawant/sanvisawant/output/github-contribution-grid-snake.svg" alt="Purple GitHub contribution snake" width="100%"/>
 
 </div>
 
@@ -134,6 +200,14 @@ An AI agent project built while exploring intelligent workflows, agent orchestra
 
 <div align="center">
 
-*Thanks for visiting my profile! Let's build something meaningful. ✨*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7C3AED,100:E9D5FF&height=120&section=footer" width="100%" alt="Purple footer"/>
+
+### 💜 Thanks for visiting my profile!
+
+*Let's keep learning, building, and creating something meaningful.*
+
+<a href="https://github.com/sanvisawant">
+  <img src="https://img.shields.io/badge/Made_with_curiosity-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Made with curiosity"/>
+</a>
 
 </div>
